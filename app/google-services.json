@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "414750923956",
+    "firebase_url": "https://wi-attendance.firebaseio.com",
+    "project_id": "wi-attendance",
+    "storage_bucket": "wi-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414750923956:android:afd5ca4f4fe45327",
+        "android_client_info": {
+          "package_name": "com.debam.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414750923956-6igtclt89fmqetmf13oi9oabei5u0jt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.debam.attendance",
+            "certificate_hash": "eaec274267847f0c0fffb3471ea41d199fbb976f"
+          }
+        },
+        {
+          "client_id": "414750923956-jd895d3lg7994kiu0h11app0s6ihm81v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYlEwX89NtZGXe4Ene7daYfR64SQItJX4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414750923956-jd895d3lg7994kiu0h11app0s6ihm81v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
